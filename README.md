@@ -27,7 +27,7 @@ To show the process of find a maze solution, 4 mazes will be displayed. The maze
 
 Example 10x10 maze:
 
-    ORIGINAL 4x4 GRID
+    ORIGINAL 10x10 GRID
     +---+---+---+---+---+---+---+---+---+---+
     |   |   |   |   |   |   |   |   |   |   |
     +---+---+---+---+---+---+---+---+---+---+
