@@ -25,7 +25,7 @@ To show the process of find a maze solution, 4 mazes will be displayed. The maze
 3. Start and goal cell marked
 4. Solution path marked
 
-Example 4x4 maze:
+Example 10x10 maze:
 
     ORIGINAL 4x4 GRID
     +---+---+---+---+---+---+---+---+---+---+
